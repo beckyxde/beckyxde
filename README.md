@@ -14,7 +14,7 @@ Additionally, I am skilled in leveraging Microsoft Excel and Power BI for financ
 🔭 I’m currently working on a personal project that involves random generation of writing prompts. Using SQLite and Python, the script pulls from an internal database. The database contains a variety of prompts categorized by genre, subject, and word count. The script randomly selects a prompt and presents it to the user each day, encouraging consistent daily writing practice.
 
   
-🌱 I’m currently enrolled in two courses:
+🌱 I’m currently enrolled in two courses:   
     - [DataExpert.io Free Data Engineering Bootcamp](https://bootcamp.techcreator.io/)   
     - [Gotham Writers' Memoir Writing I](https://wp.writingclasses.com/courses/memoir-writing-i/)
   
