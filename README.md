@@ -1,11 +1,8 @@
 ## Hi there 👋 I'm Rebecca
 
-## 🔍 I am currently searching for a new opportunity.
+👩‍💻 Data Analyst with 6+ years of experience in the FinTech sector, specializing in big data analytics, dashboard development, and process automation. Skilled in technical writing and SOPs, with a strong passion for sharing knowledge and empowering non-technical stakeholders.
 
-Data Analyst with 6+ years of experience in the FinTech sector, specializing in big data analytics, dashboard development, and process optimization through
-automation scripting. Skilled in technical writing and documentation, with a strong passion for empowering non-technical stakeholders.
-
-📅 From December 2023 to June 2024, I held a management role focused on training and leading a team of five data analysts in a time-sensitive, six-month data mapping and migration project. During this period, my primary tech stack was Microsoft Excel and Power BI for financial analysis and reporting, and I was not actively creating or posting projects on GitHub. 
+📅 In 2024, I led a team of ananlysts in a six-month data mapping and migration project. During this period, my primary tech stack was Microsoft Excel and Power BI for analysis and reporting, and I was not active on GitHub. 
 
 My technical understanding and tech stack include the following:  
     - Python for scripting and automation (especially with Google Sheets & Microsoft Excel integration)  
